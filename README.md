@@ -24,3 +24,20 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/nemo256?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </p>
+
+## 📘 My Top Projects
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="center">
+  <a href="https://github.com/nemo256/cbc">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nemo256&repo=cbc&theme=dark&bg_color=000000&title_color=4b0088&icon_color=F8D866&hide_border=false&show_icons=true" alt="Count Blood Cells">
+  </a>
+  <a href="https://github.com/nemo256/archNemoISO">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nemo256&repo=archNemoISO&theme=dark&bg_color=000000&title_color=4b0088&icon_color=F8D866&hide_border=false&show_icons=true" alt="Count Blood Cells">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>

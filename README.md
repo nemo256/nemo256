@@ -7,6 +7,6 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/nemo256">
-    <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=4B0088&center=true&lines=Full-Stack+Web+Developer;Open+Sourcerer">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=4B0088&center=true&lines=Full-Stack+Web+Developer;Open+Sourcerer">
   </a>
 </p>

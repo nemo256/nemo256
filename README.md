@@ -59,6 +59,6 @@
 <!-- GitHub Readme Streak Stats - http://github-readme-streak-stats.herokuapp.com/demo/ -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="380" title="My streak stats" alt="Amine Neggazi's streak" src="http://github-readme-streak-stats.herokuapp.com?user=nemo256&theme=midnight-purple&hide_border=true"/>
+    <img width="600" title="My streak stats" alt="Amine Neggazi's streak" src="http://github-readme-streak-stats.herokuapp.com?user=nemo256&theme=midnight-purple&hide_border=true"/>
   </a>
 </p>

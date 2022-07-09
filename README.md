@@ -31,7 +31,7 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/nemo256/cbc">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nemo256&repo=bc&theme=dark&bg_color=000000&title_color=4b0088&icon_color=F8D866&hide_border=false&show_icons=true" alt="Count Blood Cells">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nemo256&repo=cbc&theme=dark&bg_color=000000&title_color=4b0088&icon_color=F8D866&hide_border=false&show_icons=true" alt="Count Blood Cells">
   </a>
   <a href="https://github.com/nemo256/archNemoISO">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nemo256&repo=archNemoISO&theme=dark&bg_color=000000&title_color=4b0088&icon_color=F8D866&hide_border=false&show_icons=true" alt="Count Blood Cells">

@@ -12,10 +12,6 @@
 </p>
 
 <!-- Social Badges -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
   <a href="https://github.com/nemo256?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/nemo256?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
@@ -27,8 +23,7 @@
 
 ## 📘 My Top Projects
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<!-- Repo Info Cards -->
 <p align="center">
   <a href="https://github.com/nemo256/cbc">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nemo256&repo=cbc&theme=dark&bg_color=000000&title_color=4b0088&icon_color=F8D866&hide_border=false&show_icons=true" alt="Count Blood Cells">
@@ -56,7 +51,7 @@
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - http://github-readme-streak-stats.herokuapp.com/demo/ -->
+<!-- GitHub Readme Streak Stats -->
 <p align="center">
   <img width="564" title="My streak stats" alt="Amine Neggazi's streak" src="http://github-readme-streak-stats.herokuapp.com?user=nemo256&theme=midnight-purple&hide_border=true"/>
 </p>
@@ -121,15 +116,12 @@
 
 ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 ### 💻 GitHub Profile Stats
 
 <img alt="Amine Neggazi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nemo256&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=4b0088&icon_color=4b0088" height="192px"/>
 <img alt="Amine Neggazi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemo256&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=4b0088&icon_color=4b0088&hide=Jupyter%20Notebook" height="192px"/>
 
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
 ### ⚡ GitHub Activity
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <img alt="Amine Neggazi's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nemo256&bg_color=000000&color=bbbbbb&line=4b0088&point=FFFFFF&hide_border=true"/>

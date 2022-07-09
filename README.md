@@ -53,3 +53,12 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - http://github-readme-streak-stats.herokuapp.com/demo/ -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="My streak stats" alt="Amine Neggazi's streak" src="http://github-readme-streak-stats.herokuapp.com?user=nemo256&theme=midnight-purple"/>
+  </a>
+</p>

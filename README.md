@@ -11,12 +11,19 @@
   </a>
 </p>
 
-<!-- Social Icons -->
+<!-- Social Badges -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
-  <a href="https://www.facebook.com/nemo256/">
-    <img width="32px" alt="Facebook" title="Facebook" src="https://img.freepik.com/free-icon/facebook-link_318-10348.jpg?w=740&t=st=1657357555~exp=1657358155~hmac=0704acd4a3437e8245b606be4f41e446019116cace29c41842f88a8be6b76fe2"/>
+  <a href="https://github.com/nemo256?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/nemo256?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/>
+  </a>
 </p>
-
-<br/>

@@ -14,7 +14,7 @@
 <!-- Social Icons -->
 <p align="center">
   <a href="https://www.facebook.com/nemo256/">
-    <img width="32px" alt="Facebook" title="Facebook" src="https://i.imgur.com/mWO1ozE.png"/>
+    <img width="32px" alt="Facebook" title="Facebook" src="https://img.freepik.com/free-icon/facebook-link_318-10348.jpg?w=740&t=st=1657357555~exp=1657358155~hmac=0704acd4a3437e8245b606be4f41e446019116cace29c41842f88a8be6b76fe2"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>

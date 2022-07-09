@@ -1,7 +1,7 @@
 <!-- Welcome Message -->
 <h1 align="center">
-  Welcome to Amine Neggazi's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  I am Amine Neggazi!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 
 <!-- Typing SVG -->

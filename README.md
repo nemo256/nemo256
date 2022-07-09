@@ -127,8 +127,7 @@
 ### 💻 GitHub Profile Stats
 
 <img alt="Amine Neggazi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nemo256&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=4b0088&icon_color=4b0088" height="192px"/>
-<img alt="Amine Neggazi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nemo256&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=4b0088&icon_color=4b0088" height="192px"/>
-<img alt="Amine Neggazi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemo256&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+<img alt="Amine Neggazi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemo256&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=4b0088&icon_color=4b0088&hide=Jupyter%20Notebook" height="192px"/>
 
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->

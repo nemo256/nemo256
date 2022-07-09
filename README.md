@@ -110,38 +110,28 @@
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-7EBF50.svg?logo=vim&logoColor=white"></a>
-    <a href="#"><img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-69A33E.svg?logo=neovim&logoColor=white"></a>
+    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white">
+    <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+    <img alt="Vim" src="https://img.shields.io/badge/Vim-7EBF50.svg?logo=vim&logoColor=white">
+    <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-69A33E.svg?logo=neovim&logoColor=white">
 </p>
 
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ### 💻 GitHub Profile Stats
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Amine Neggazi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nemo256&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=4b0088&icon_color=4b0088" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+
+<img alt="Amine Neggazi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nemo256&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=4b0088&icon_color=4b0088" height="192px"/>
+<img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
 
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/33) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
-2. 💪 Opened PR [#33](https://github.com/DenverCoder1/Unedit-for-Reddit/pull/33) in [DenverCoder1/Unedit-for-Reddit](https://github.com/DenverCoder1/Unedit-for-Reddit)
-3. 🗣 Commented on [#1961](https://github.com/OpenUserJS/OpenUserJS.org/issues/1961) in [OpenUserJS/OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org)
-4. 🗣 Commented on [#5170](https://github.com/discord/discord-api-docs/issues/5170) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. 🗣 Commented on [#5170](https://github.com/discord/discord-api-docs/issues/5170) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-<!--END_SECTION:activity-->
-</details>
+### ⚡ GitHub Activity
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<img alt="Amine Neggazi's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nemo256&bg_color=000000&color=bbbbbb&line=4b0088&point=FFFFFF&hide_border=true"/>

@@ -36,6 +36,18 @@
   <a href="https://github.com/nemo256/archNemoISO">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nemo256&repo=archNemoISO&theme=dark&bg_color=000000&title_color=4b0088&icon_color=F8D866&hide_border=false&show_icons=true" alt="Count Blood Cells">
   </a>
+  <a href="https://github.com/nemo256/DashRecours">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nemo256&repo=DashRecours&theme=dark&bg_color=000000&title_color=4b0088&icon_color=F8D866&hide_border=false&show_icons=true" alt="Count Blood Cells">
+  </a>
+  <a href="https://github.com/nemo256/HackINI-2k22">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nemo256&repo=HackINI-2k22&theme=dark&bg_color=000000&title_color=4b0088&icon_color=F8D866&hide_border=false&show_icons=true" alt="Count Blood Cells">
+  </a>
+  <a href="https://github.com/nemo256/hotel">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nemo256&repo=hotel&theme=dark&bg_color=000000&title_color=4b0088&icon_color=F8D866&hide_border=false&show_icons=true" alt="Count Blood Cells">
+  </a>
+  <a href="https://github.com/nemo256/portfolio">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nemo256&repo=portfolio&theme=dark&bg_color=000000&title_color=4b0088&icon_color=F8D866&hide_border=false&show_icons=true" alt="Count Blood Cells">
+  </a>
 </p>
 
 <p align="center">

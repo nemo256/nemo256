@@ -74,11 +74,7 @@
 ### 🗄️ Databases and cloud hosting
 
   <p>
-      <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-      <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-      <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
-      <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,vercel,netlify,cloudflare&theme=dark&perline=3">
   </p>
 
 ### 💻 Software and tools

@@ -62,7 +62,7 @@
 ### 👨‍💻 Programming and markup languages
 
   <p>
-      <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,html,js,latex,md,py,php,r,sql,svg">
+      <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,html,js,latex,md,py,php,r,mysql,svg">
   </p>
 
 ### 🧰 Frameworks and libraries

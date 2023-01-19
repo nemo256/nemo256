@@ -74,7 +74,7 @@
 ### 🗄️ Databases and cloud hosting
 
   <p>
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,vercel,netlify,cloudflare&theme=dark&perline=3">
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,vercel,netlify,cloudflare&theme=dark&perline=6">
   </p>
 
 ### 💻 Software and tools

@@ -90,7 +90,4 @@
   <img alt="Amine Neggazi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nemo256&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=4b0088&icon_color=4b0088" height="192px"/>
   <img alt="Amine Neggazi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemo256&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=4b0088&icon_color=4b0088&hide=Jupyter%20Notebook" height="192px"/>
 
-### ⚡ GitHub Activity
-
-  <img alt="Amine Neggazi's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nemo256&bg_color=000000&color=bbbbbb&line=4b0088&point=FFFFFF&hide_border=true"/>
 </div>

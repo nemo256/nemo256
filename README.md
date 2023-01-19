@@ -60,7 +60,7 @@
 
 ### 👨‍💻 Programming and markup languages
 
-<p>
+<p align="center">
     <img alt="Intel Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white">
     <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
     <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
@@ -80,7 +80,7 @@
 
 ### 🧰 Frameworks and libraries
 
-<p>
+<p align="center">
     <img alt="NextJS" src="https://img.shields.io/badge/NextJS-20232a.svg?logo=next.js&logoColor=white">
     <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-20232a.svg?logo=react&logoColor=%2361DAFB">
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
@@ -93,7 +93,7 @@
 
 ### 🗄️ Databases and cloud hosting
 
-<p>
+<p align="center">
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
@@ -103,7 +103,7 @@
 
 ### 💻 Software and tools
 
-<p>
+<p align="center">
     <img alt="Void Linux" src="https://img.shields.io/badge/Void%20Linux-50C878.svg?logo=vagrant&logoColor=white">
     <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
@@ -119,10 +119,14 @@
 
 ### 💻 GitHub Profile Stats
 
-<img alt="Amine Neggazi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nemo256&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=4b0088&icon_color=4b0088" height="192px"/>
-<img alt="Amine Neggazi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemo256&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=4b0088&icon_color=4b0088&hide=Jupyter%20Notebook" height="192px"/>
+<div align="center">
+  <img alt="Amine Neggazi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nemo256&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=4b0088&icon_color=4b0088" height="192px"/>
+  <img alt="Amine Neggazi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemo256&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=4b0088&icon_color=4b0088&hide=Jupyter%20Notebook" height="192px"/>
+</div>
 
 
 ### ⚡ GitHub Activity
 
-<img alt="Amine Neggazi's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nemo256&bg_color=000000&color=bbbbbb&line=4b0088&point=FFFFFF&hide_border=true"/>
+<div align="center">
+  <img alt="Amine Neggazi's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nemo256&bg_color=000000&color=bbbbbb&line=4b0088&point=FFFFFF&hide_border=true"/>
+</div>

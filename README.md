@@ -80,15 +80,7 @@
 ### 💻 Software and tools
 
   <p>
-      <img alt="Void Linux" src="https://img.shields.io/badge/Void%20Linux-50C878.svg?logo=vagrant&logoColor=white">
-      <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-      <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white">
-      <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white">
-      <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
-      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-      <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-      <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-69A33E.svg?logo=neovim&logoColor=white">
+      <img src="https://skillicons.dev/icons?i=linux,neovim,git,github,docker,stackoverflow&theme=dark&perline=6">
   </p>
 
 ## 📊 Github stats

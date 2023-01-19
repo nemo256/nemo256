@@ -61,7 +61,9 @@
 
 ### 👨‍💻 Programming and markup languages
 
-      [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <p>
+      <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
+      <img src="https://skillicons.dev/icons?i=js,html,css,wasm">
       <!-- <img alt="Intel Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"> -->
       <!-- <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> -->
       <!-- <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> -->
@@ -77,6 +79,7 @@
       <!-- <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"> -->
       <!-- <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"> -->
       <!-- <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"> -->
+  </p>
 
 ### 🧰 Frameworks and libraries
 

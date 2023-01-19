@@ -68,14 +68,7 @@
 ### 🧰 Frameworks and libraries
 
   <p>
-      <img alt="NextJS" src="https://img.shields.io/badge/NextJS-20232a.svg?logo=next.js&logoColor=white">
-      <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-20232a.svg?logo=react&logoColor=%2361DAFB">
-      <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
-      <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
-      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
-      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-      <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
-      <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,tensorflow,tailwind,materialui,bootstrap&theme=dark&perline=3">
   </p>
 
 ### 🗄️ Databases and cloud hosting

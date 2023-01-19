@@ -68,7 +68,7 @@
 ### 🧰 Frameworks and libraries
 
   <p>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,tensorflow,tailwind,materialui,bootstrap&theme=dark&perline=3">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,tensorflow,tailwind,materialui,bootstrap&theme=dark&perline=6">
   </p>
 
 ### 🗄️ Databases and cloud hosting

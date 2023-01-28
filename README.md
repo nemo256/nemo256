@@ -41,7 +41,7 @@
     <a href="https://github.com/nemo256/hotel">
       <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nemo256&repo=hotel&theme=dark&bg_color=000000&title_color=4b0088&icon_color=F8D866&hide_border=false&show_icons=true" alt="Count Blood Cells">
     </a>
-    <a href="https://github.com/nemo256/matrixgame">
+    <a href="https://github.com/nemo256/matrix_game">
       <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nemo256&repo=matrix_game&theme=dark&bg_color=000000&title_color=4b0088&icon_color=F8D866&hide_border=false&show_icons=true" alt="Count Blood Cells">
     </a>
   </p>
